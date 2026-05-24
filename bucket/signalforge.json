@@ -1,10 +1,10 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "SignalForge CLI recorder for SignalForge Hub",
   "homepage": "https://signalforge.org",
   "license": "Fair Source",
-  "url": "https://github.com/CptPlastic/signalforge.org/releases/download/signalforge-cli-v0.1.3/signalforge-windows-amd64.zip",
-  "hash": "3aadd5ff7a06550e869209fa666305af586df3c1defdde7f9713b455b42aef50",
+  "url": "https://github.com/CptPlastic/signalforge.org/releases/download/signalforge-cli-v0.1.4/signalforge-windows-amd64.zip",
+  "hash": "612157f8bfde5a6737fb0c72338166f80627275ac8e16ef712e6fd3f24f0ca7c",
   "bin": "signalforge.exe",
   "checkver": {
     "url": "https://api.github.com/repos/CptPlastic/signalforge.org/releases",
